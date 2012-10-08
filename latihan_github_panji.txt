@@ -1,0 +1,19 @@
+
+
+fungsi github untuk mencatat perubahan repo,project,file,dll
+
+pintah git
+
+git clone 	untuk mengcopy repo,project,file dari github
+ssh key   	utnuk membuat generiknya 
+git status	untuk melihat status perubahan di pc kita sendiri
+git add		untuk mememilih file yang di pilih untuk di kirim ke 			repo lokal
+git add.	untuk memilih semua file yang akan di kirim ke 			repo lokal
+git commit -m "menambahkan 1 file" untuk menyimpan  di repo 					   lokal
+git push	untuk mengirim ke repo server
+
+git pull	untuk mengambil perubahan terbaru dari repo pusat(server)
+
+fork		untuk mengclone repo ke github kita sendiri
+
+
